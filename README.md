@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sipheng2013it
-- 👀 I’m interested in IT-program
-- 🌱 I’m currently learning Ho-me :)
+- 👋 Hi, I’m sipheng
+- 👀 I’m interested in IT-programer
+- 🌱 I’m currently learning Home :)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
